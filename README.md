@@ -1,4 +1,4 @@
-# Weather-App 🌤️
+# Weather App 🌤️
 A weather app build with html, css and javascript.
 
 # 💡About this project 
